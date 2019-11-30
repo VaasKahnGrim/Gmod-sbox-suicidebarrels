@@ -1,0 +1,13 @@
+"Suicide Barrels"
+{
+	"base"		"base"
+	"title"		"Suicide Barrels"
+	"version"	"1.0"
+	"menusystem"	"1"
+	"author_name"	"Vaas Kahn Grim"
+	"author_email"	"no"
+	"author_url"	"http://www.rapadantnetworks.org/"
+	"icon"		""
+	"info"		"A gamemode about barrels blowing shit up. I dunno, I just decided to make this because I think SBox is pointless."
+	"hide"		"0"
+}
