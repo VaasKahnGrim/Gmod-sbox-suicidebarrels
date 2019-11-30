@@ -1,0 +1,5 @@
+GM.Name = 'Suicide Barrels'
+GM.Author = 'Vaas Kahn Grim'
+GM.Site = 'http://www.rapadantnetworks.org'
+GM.Version = '1.0'
+include'config.lua'
